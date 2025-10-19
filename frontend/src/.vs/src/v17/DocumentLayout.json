@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:types.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\backend\\Api\\render.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\react.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\sentimentColor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:sentimentColor.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "render.yaml",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\backend\\Api\\render.yaml",
+              "RelativeDocumentMoniker": "..\\..\\backend\\Api\\backend\\Api\\render.yaml",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\backend\\Api\\render.yaml",
+              "RelativeToolTip": "..\\..\\backend\\Api\\backend\\Api\\render.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-10-19T12:51:03.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "react.svg",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\assets\\react.svg",
+              "RelativeDocumentMoniker": "assets\\react.svg",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\assets\\react.svg",
+              "RelativeToolTip": "assets\\react.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAOHSURBVDhPlZTLbxtFHMe/u7Nr7ybe9dpxg0MaJySbh1MbGtG4EgrthTaIJCqmQj0gJJQibkicKg5YHOAIfwBCIgciTjyESi9IRUmBPIBD2qqEIvXtxI2deB3b9dr7ZOxYqdsiIb6r30ozO/OZ32uHQYuSyeQnsVhsujn8L91Mp9Nfzc3NzcN1Xa45ua\u002BJiYnA\u002BPi40hz\u002Bq9bX18srKyuwLOv12dnZB18wDEOa3xqKRqOHKSg2PKyGvFyOCO53xFubJ3z5S0IK3xDeuEGE9m5SMX22z\u002Bfj4/F4N/UqpKqqtg9Kpd5k\u002Bg8njjGS8bzoXQyw\u002Bjys4gI2sixyzElISgJWZhUM9xSqJGLl83ljZ2fHzWazgt/v722Azp07w4yeODUZCm\u002BfDvsWRiRc8hYK21jNjeNiZgJL\u002BRdBxBikwm9olyPgA4fquWVpaKwkSSKFSQ3Qux9/MJpz3fcG/ReOj8hXFIHpRpm8iptmEpd3B/DzPRPZkoke0UA4PAQp2MvKsuzp6AgJHcGgZ21tTWOnpo4yv96xz0TaFl7oF68pgjvg8r6z6I7M4sTwEKbVIHoVLy7nDPxuJmiY/bRIAMdxkGUJgWCw7gvYH85/6D0WvTV1JPDjAbvkwYb9Grb4l5Aps6BOYKBTxFi4DW0ijz\u002B2edwusXDp06DVrSkO5vUDJ8Ofd\u002BqawZ8vvI3v/xzDDe0uLS1dRDPBsCxYnnYJyyD3wEbZsOtt09z\u002BEMRC\u002B\u002Bgsb275ftl9C0vZMce2PM6A34vBgAeDigeqn8NBL0BqBvpoSjuER3p4X5yja6/czsSs5Z2YvaVxhelRgXv52V7Fts398\u002BoOWI4LgWMQFEiLRw\u002BhrF1xn7mYmfz6aq7r/qYtS3crpC1fMaAINJk8i81CDZ\u002BtZvHp4iZWbxVRqtl0G80SZbWkCJxdRjUuLn17YeOIWbHk5Mpm7WC2mmuc7NCVW2UTV\u002B/r6PMRSF4CkcIbgPqrJUry/hs4HqreY5yCEQpauS6WiHLaVMjfOzoytGz19fFOATNRBUcjPuopDY3ZI9BfjBbFdpaXlzXS3wXryjWM2OnrZg\u002B760TV5/yqGpf7/DwOUUDiaRGTqoRET3vDo1a1gppTezqdnHnn0uJPa6ZpOrquP2aVJ6xa1R1N04xUKvUX22Q05IAbquhGV6lUMunmx6z6hFUqulksFmnbPpKuvYuNXg0zzeH/EPAPPoy4K1bNSY8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-10-19T12:25:25.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\backend\\Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\appsettings.json",
+              "RelativeToolTip": "..\\..\\backend\\Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T00:02:11.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\backend\\Api\\Program.cs",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\backend\\Api\\Program.cs",
+              "RelativeToolTip": "..\\..\\backend\\Api\\Program.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T00:01:43.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\App.tsx",
+              "RelativeDocumentMoniker": "App.tsx",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\App.tsx",
+              "RelativeToolTip": "App.tsx",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-18T23:46:53.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.tsx",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\main.tsx",
+              "RelativeDocumentMoniker": "main.tsx",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\main.tsx",
+              "RelativeToolTip": "main.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-18T23:52:55.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "sentimentColor.ts",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\sentimentColor.ts",
+              "RelativeDocumentMoniker": "sentimentColor.ts",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\sentimentColor.ts",
+              "RelativeToolTip": "sentimentColor.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-18T23:43:57.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "types.ts",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\types.ts",
+              "RelativeDocumentMoniker": "types.ts",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\types.ts",
+              "RelativeToolTip": "types.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-10-18T23:43:43.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\App.css",
+              "RelativeDocumentMoniker": "App.css",
+              "ToolTip": "C:\\Users\\ERSOZ\\Desktop\\emotional-chat-ai\\frontend\\src\\App.css",
+              "RelativeToolTip": "App.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-18T23:42:59.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

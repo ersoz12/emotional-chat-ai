@@ -1,0 +1,21 @@
+{
+  "createUser": {
+    "method": "POST",
+    "url": "/api/users",
+    "body": { "nickname": "demo" }
+  },
+  "createMessage": {
+    "method": "POST",
+    "url": "/api/messages",
+    "body": { "userId": 1, "text": "Bugün proje harika gidiyor!" }
+  },
+  "listMessages": {
+    "method": "GET",
+    "url": "/api/messages"
+  },
+  "analyze": {
+    "method": "POST",
+    "url": "/api/analyze",
+    "body": { "text": "Today is a beautiful day, I am happy!" }
+  }
+}
