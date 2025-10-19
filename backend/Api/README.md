@@ -66,9 +66,10 @@ npm run dev
 
 ## 🌐 Canlı Demo
 
-- **Web App**: [Vercel Deploy Link]
-- **API**: [Render Deploy Link]
+- **Web App**: [Vercel Deploy Link] (Deploy edilecek)
+- **API**: [Render Deploy Link] (Deploy edilecek)
 - **AI Service**: https://ismaillersoz-sentiment-ai-service.hf.space
+- **Mobil APK**: [React Native Build] (Geliştirilecek)
 
 ## 📊 API Endpoints
 
@@ -159,6 +160,19 @@ npm run dev
 ## 📄 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
+
+## 🤖 AI Araçları ile Yazılan Bölümler
+
+**Claude AI ile geliştirilen kısımlar:**
+- Backend API endpoint'leri (Program.cs)
+- Frontend React komponenti (App.tsx)
+- API entegrasyonu (api.ts)
+- Deploy konfigürasyonları (render.yaml, vercel.json)
+
+**Manuel yazılan kısımlar:**
+- Hugging Face Space AI servisi
+- SQLite veritabanı modelleri
+- Sentiment analizi entegrasyonu
 
 ## 👨‍💻 Geliştirici
 
